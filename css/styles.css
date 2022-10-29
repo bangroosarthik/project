@@ -1,0 +1,75 @@
+body{
+  text-align: center;
+  background-color: #B8E8FC;
+  padding-top: 100px;
+  font-family:  'Merriweather',serif;
+}
+
+
+h1{
+  position: absolute;
+  position: relative;
+  font-family: 'Sacramento',cursive;
+
+  top: 60px;
+  left: 24px;
+}
+
+h3{
+  position: relative;
+  font-family: sans-serif;
+  top: 70px;
+  left:24px;
+
+}
+
+.pro{
+  background-color:pink;
+}
+
+.cloud2{
+  display: inline-block;
+  position: absolute;
+  top: 20%;
+  left: 60%;
+}
+
+.cloud1{
+  display: inline-block;
+  position: absolute;
+  top: 40%;
+  left:35%;
+}
+
+.mountain{
+  display: inline-block;
+  position: absolute;
+  width: 20%;
+  left:42%;
+}
+
+.middle{
+  display: inline-block;
+  position: relative;
+  top: 400px;
+}
+
+.sarthik{
+  width: 200px;
+  height: 200px;
+
+}
+
+.sarthik:hover{
+  background-color: orange;
+}
+
+.text{
+  position: relative;
+  left: 100px;
+}
+
+.pic{
+  width: 200px;
+  height: 200px;
+}
